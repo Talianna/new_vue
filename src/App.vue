@@ -39,7 +39,6 @@
                                 </div>
                             </div>
                         </nav> 
-                        
                         -->
 
                         <div class="nav__item entrance">
