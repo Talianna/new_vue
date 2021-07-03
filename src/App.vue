@@ -38,7 +38,8 @@
                                     <a href="#" class="dropDown__link">SubMenu</a>
                                 </div>
                             </div>
-                        </nav> -->
+                        </nav> 
+                        -->
 
                         <div class="nav__item entrance">
                             <div><a href="#">Регистрация</a></div>
